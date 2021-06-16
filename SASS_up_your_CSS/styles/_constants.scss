@@ -1,0 +1,9 @@
+$color: #c0eea9;
+$colordark: #97d279;
+$padding: 20px;
+
+@mixin styling_hero {
+  max-width: 700px;
+  text-align: center;
+  padding: $padding;
+} 
